@@ -7,7 +7,7 @@ body {
 }
 
 div.kartochka {
-	width: 340px;
+	width: 442px;
 	height: 350px;
     position: relative;
     margin-bottom: 20px;
@@ -30,7 +30,7 @@ div.margin_right {
 }
 
 div.linia {
-    width: 340px;
+    width: 442px;
 	height: 24%;
 	background-color: rgba(48, 55, 53, 0.9);
 	position: absolute;
