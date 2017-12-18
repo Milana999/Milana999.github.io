@@ -1,43 +1,47 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
 
 body {
-	background-color: #286b5aba;
-	padding: 5%;
-	text-align: center;
+    background-color: #286b5aba;
+    padding: 5%;
+    text-align: center;
 }
 
 div.kartochka {
-	width: 442px;
-	height: 350px;
+    width: 442px;
+    height: 350px;
     position: relative;
     margin-bottom: 20px;
     box-shadow: -4px 6px 8px 2px #464a4a;
 }
 
 a {
-	text-decoration: none;
+    text-decoration: none;
     color: #fff;
     font-family: 'Dancing Script', cursive;
     font-size: 1.5rem; 
 }
 
 div.hhh {
-	display: inline-block;
+    display: inline-block;
 }
 
 div.margin_right {
-	margin-right: 35px;
+    margin-right: 35px;
+}
+
+div.margin_center {
+    margin: auto;
 }
 
 div.linia {
     width: 442px;
-	height: 24%;
-	background-color: rgba(48, 55, 53, 0.9);
-	position: absolute;
-	top: 266px;
-	text-align: center;
+    height: 24%;
+    background-color: rgba(48, 55, 53, 0.9);
+    position: absolute;
+    top: 266px;
+    text-align: center;
 }
 
 h3 {
-	margin-top: 5%;
+    margin-top: 5%;
 }
