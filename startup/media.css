@@ -1,0 +1,489 @@
+@media screen and (max-width: 1400px) {
+	.otstup-menu {
+	    margin-left: 33%;
+    }
+	.logo {
+        font-size: 23px;
+    }
+	.menu__item a {
+	    font-size: 14px;
+	    margin-left: 28px; 
+    }  
+    .fix .otstup-menu {
+	    margin-left: 33%;
+    }
+	.fix .logo {
+        font-size: 23px;
+    }
+	.fix .menu__item a {
+	    font-size: 14px;
+	    margin-left: 28px; 
+    }     
+
+}
+
+@media screen and (max-width: 1250px) {
+    .otstup-menu {
+	    margin-left: 28%;
+    }
+	.logo {
+        font-size: 20px;
+    }
+	.menu__item a {
+	    margin-left: 28px; 
+    }     
+    .fix .otstup-menu {
+	    margin-left: 28%;
+    }
+	.fix .logo {
+        font-size: 20px;
+    }
+	.fix .menu__item a {
+	    margin-left: 28px; 
+    }  
+}
+
+@media screen and (max-width: 1200px) {
+	.multiple-items {
+		width: 842px;
+		margin-right: 7%;
+	    margin-left: 7%;
+	}
+	.slick-next {
+	    right: 18px;
+    }
+    .foto-work__red-layer {
+     	height: 267px;
+    }
+    section { 
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+   .otstup-menu {
+	    margin-left: 19%;
+    }
+    .fix .otstup-menu {
+	    margin-left: 19%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+   .otstup-menu {
+	    margin-left: 20%;
+    }
+    .menu__item a {
+	    margin-left: 20px; 
+	    font-size: 13px;
+    } 
+    .logo {
+        font-size: 19px;
+    }
+    .fix .otstup-menu {
+	    margin-left: 20%;
+    }  
+    .fix .menu__item a {
+	    margin-left: 20px; 
+	    font-size: 13px;
+    } 
+    .fix .logo {
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+	.about-us-text {
+		text-align: center;
+	}
+	.multiple-items {
+		margin-right: 0;
+        margin-left: -52px;
+	}
+	.foto-work__red-layer {
+    	height: 196px;
+    }
+    .contact .comment {
+	    margin-left: -2px;
+	    display: block;
+	    margin-top: 20px;
+    }
+    .text-services {
+	    margin-top: 47px;
+	    margin-bottom: 54px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .menu__item a {
+	    margin-left: 15px; 
+	    font-size: 11px;
+    } 
+    .logo {
+        font-size: 16px;
+    }  
+    .fix .menu__item a {
+	    margin-left: 15px; 
+	    font-size: 11px;
+    } 
+    .fix .logo {
+        font-size: 16px;
+    } 
+    .multiple-items {
+		width: 544px;
+	    margin-left: 16%;
+	}
+	.slick-next {
+	    right: 0;
+    } 
+}
+
+@media screen and (max-width: 800px) {
+   .single-item {
+		width: 700px;
+    }
+    .single-item__text {
+    	font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .otstup-menu {
+	    margin-left: 15%;
+    }
+    .menu__item a {
+	    margin-left: 13px; 
+	    font-size: 10px;
+    } 
+    .header {
+    	height: 550px; 
+    }
+    .title {
+    	margin-top: 129px;
+    }
+    .fix .otstup-menu {
+	    margin-left: 15%;
+    }
+    .fix .menu__item a {
+	    margin-left: 13px; 
+	    font-size: 10px;
+    } 
+    .fix .header {
+    	height: 550px; 
+    }
+    .fix .title {
+    	margin-top: 129px;
+    }
+    .multiple-items {
+	    margin-left: -1%;
+	    margin-top: 37px;
+    }
+    .text-services {
+	    margin-top: 55px;
+	    margin-bottom: 49px;
+    }
+    .services .column1, .services .column2 {
+   		margin-bottom: 62px;
+    }
+    .foto-work__red-layer {
+    	height: 142px;
+    }
+    .foto-work__main-text {
+	    font-size: 12px;
+	    margin-top: 20%;
+	    margin-bottom: 7px;
+    }
+    .foto-work__text {
+    	font-size: 9px;
+    }
+    .foto-work__button {
+	    width: 72px;
+	    height: 27px;	
+	    font-size: 10px;
+    }
+    .nn {
+    	text-align: center;
+    }
+    .address {
+    	display: inline-block;
+    	text-align: center;
+    }
+    .fff {
+    	text-align: center;
+    }
+    .margin-buttom-null {
+    	margin-bottom: 20px;
+    }
+    .contact {
+    	margin-bottom: 41px;
+    }
+    .footer .copyright {
+    	margin-bottom: 41px;
+    }
+    .footer .circle {
+    	margin-top: 41px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 770px) {
+    .column__zagolovok {
+    	font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 690px) {
+	.single-item {
+		width: 500px;
+	 }
+	.single-item__text {
+	    font-size: 12px;
+	 }
+	.single-item__author {
+        font-size: 12px;
+	}
+}
+
+@media screen and (max-width: 650px) {
+    .menu__item a {
+	    margin-left: 12px; 
+	    font-size: 10px;
+	    letter-spacing: 1px;
+    } 
+    .logo {
+        font-size: 15px;
+    } 
+    .otstup-menu {
+	    margin-left: 10%;
+    } 
+    .fix .menu__item a {
+	    margin-left: 12px; 
+	    font-size: 10px;
+	    letter-spacing: 1px;
+    } 
+    .fix .logo {
+        font-size: 15px;
+    } 
+    .fix .otstup-menu {
+	    margin-left: 10%;
+    } 
+    .hrrr {
+    	margin-bottom: 45px;
+    }
+    .logotypy img {
+    	margin-top: 45px;
+    }
+    .slick-list {
+    	margin-bottom: 75px;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+	.multiple-items {
+		width: 410px;
+	    margin-left: 10%;
+	    margin-right: 10%;
+	}
+	.slick-next {
+    	right: 0;
+	} 
+	.multiple-items__slide {
+		width: 200px;
+		margin-right: 10px;
+	}
+	.multiple-items__slide .multiple-items__black-fon {
+		width: 200px;
+		height: 190px;
+	}
+	.multiple-items__icon3 {
+    	left: 35%;
+	}
+	.multiple-items__text {
+		width: 200px;	
+	}
+	.slick-prev, .slick-next {
+	    width: 20px;
+	    height: 20px;
+    }
+    .slick-prev:before, .slick-next:before {
+    	font-size: 11px;
+    }
+    .foto1 {
+    	text-align: center;
+    }
+    .foto-work {
+		text-align: center;
+		width: 360px;
+		margin: auto;
+    }
+    .foto-work__red-layer {
+    	height: 320px;
+    }
+    .foto-work__main-text {
+	    font-size: 18px;
+	    margin-top: 25%;
+	    margin-bottom: 20px;
+    }
+    .foto-work__text {
+    	font-size: 12px;
+    }
+    .foto-work__button {
+	    font-size: 14px;
+		width: 100px;
+		height: 40px;
+    }
+    .get-in-touch__main {
+    	font-size: 25px;
+    }
+    .single-item {
+		width: 400px;
+	 }
+}
+
+@media screen and (max-width: 500px) {
+    .otstup-menu {
+	    margin-left: 7%;
+    } 
+    .logo {
+        margin-top: 46px;
+    } 
+    .menu__item a {
+	    margin-left: 10px; 
+	    font-size: 10px;
+	    letter-spacing: 0;
+    }     
+    .fix .otstup-menu {
+	    margin-left: 7%;
+    } 
+    .fix .logo {
+        margin-top: 46px;
+    } 
+    .fix .menu__item a {
+	    margin-left: 10px; 
+	    font-size: 10px;
+	    letter-spacing: 0;
+    }  
+    .multiple-items {
+		width: 310px;
+	    margin-left: 18%;
+	    margin-right: 18%;
+
+	}
+    .multiple-items__slide {
+		width: 150px;
+	}
+	.multiple-items__slide .multiple-items__black-fon {
+		width: 150px;
+		height: 143px;
+	}
+	.multiple-items__text {
+		width: 150px;	
+	}  
+	.slick-prev, .slick-next {
+		top: 28%; 
+	}  
+	.multiple-items__icon4, .multiple-items__icon3, 
+	.multiple-items__icon1 {
+	    width: 21px;
+	    height: 21px;
+	    font-size: 11px;
+    }
+    .multiple-items__icon3 {
+    	left: 33%;
+	}
+	.multiple-items__icon2 {
+	    top: 74%;
+	    right: 36%;
+    }
+    .text-services__menu {
+    	font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+	.multiple-items {
+	    margin-left: 10%;
+	    margin-right: 10%;
+	}
+	.get-in-touch__main {
+    	font-size: 19px;
+    }
+    .single-item {
+		width: 300px;
+	 }
+}
+
+@media screen and (max-width: 400px) {
+	.logo {
+        margin-top: 50px;
+        font-size: 11px;
+    } 
+    .menu__item a {
+	    font-size: 7px;
+	}
+	.otstup-menu {
+	    margin-left: 5%;
+    } 
+    .fix .logo {
+        margin-top: 50px;
+        font-size: 11px;
+    } 
+    .fix .menu__item a {
+	    font-size: 7px;
+	}
+	.fix .otstup-menu {
+	    margin-left: 5%;
+    } 
+    .foto-work img {
+    	width: 290px;
+    }
+    .foto-work__red-layer {
+	    width: 290px;
+	    height: 258px;
+    }
+    .foto-work {
+    	width: 290px;
+    }
+    .text-services__menu {
+    	font-size: 9px;
+    }
+    .static {
+    	padding-right: 15px;
+    }
+    .get-in-touch .container-fluid {
+    	height: 320px;
+    }
+    .get-in-touch__main {
+     	margin-top: 80px;
+    }
+    .title__zagolovok {
+    	font-size: 32px;
+    }
+    .title__text {
+    	font-size: 13px;
+    }
+    .multiple-items {
+    	margin: ;
+    }
+}
+
+@media screen and (max-width: 390px) {
+	.multiple-items {
+	    margin-left: 7%;
+	    margin-right: 7%;
+	}
+}
+
+@media screen and (max-width: 366px) {
+	.multiple-items {
+	    margin-left: 5%;
+	    margin-right: 5%;
+	}
+}
+
+@media screen and (max-width: 350px) {
+	.multiple-items {
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+}
